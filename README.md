@@ -1,4 +1,4 @@
-# Clinical_Data_Analysis
+# Clinical Data Analysis
 
 ## Objective
 To analyse clinical patient data and extract meaningful insights related to treatment cost, hospital stay, patient satisfaction, and outcomes.
