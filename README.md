@@ -1,4 +1,6 @@
-# Clinical Data Analysis
+# Clinical Data Analysis Project
+
+End-to-end clinical dats analysis project using Python and SQL. 
 
 ## Objective
 To analyse clinical patient data and extract meaningful insights related to treatment cost, hospital stay, patient satisfaction, and outcomes.
