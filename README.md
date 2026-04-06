@@ -8,6 +8,7 @@ To analyse clinical patient data and extract meaningful insights related to trea
 ## Tools Used
 - Python
 - SQL (SQLite)
+- Jupyter Notebook
 
 ## Dataset 
 This dataset contains 1000 patient records with the following deatils:
@@ -20,6 +21,12 @@ This dataset contains 1000 patient records with the following deatils:
 - Readmission
 - Outcome
 - Satisfaction
+
+## Project Workflow
+1. Data Cleaning using Python
+2. Exploratory Data Analysis (EDA)
+3. SQL Queries for business insights
+4. Interpretation of healthcare trends
 
 ## Analysis Performed
 - Patient distribution by condition
