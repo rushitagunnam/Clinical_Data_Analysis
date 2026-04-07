@@ -57,4 +57,4 @@ This dashboard provides insights into clinical patient data including treatment 
 - Patient distribution varies across conditions
 
 ### Interactive Dashboard built using Power BI:
-<img src="dashboard.png" width="800"/>
+<img src="dashboard.png" width="1200"/>
