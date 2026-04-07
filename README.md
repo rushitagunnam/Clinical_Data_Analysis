@@ -56,5 +56,5 @@ This dashboard provides insights into clinical patient data including treatment 
 - Majority of patients are recovered, indicating effective treatment
 - Patient distribution varies across conditions
 
-### Dashboard Preview:
-![Dashboard](dashboard.png)
+### Interactive Dashboard built using Power BI:
+<img src="dashboard.png" width="800"/>
