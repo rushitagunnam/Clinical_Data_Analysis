@@ -46,3 +46,15 @@ This dataset contains 1000 patient records with the following deatils:
 
 ## Conclusion
 This project demonstrates how data analysis can be used to understand patient trends, optimize hospital resources, and evaluate treatment effectiveness.
+
+## Power BI Dashboard
+
+This dashboard provides insights into clinical patient data including treatment cost, hospital stay, and patient outcomes.
+
+### Key Insights:
+- Cancer has the highest treatment cost and longest hospital stay
+- Majority of patients are recovered, indicating effective treatment
+- Patient distribution varies across conditions
+
+### Dashboard Preview:
+![Dashboard](dashboard.png)
