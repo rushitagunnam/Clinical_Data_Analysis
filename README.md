@@ -11,7 +11,7 @@ To analyse clinical patient data and extract meaningful insights related to trea
 - Jupyter Notebook
 
 ## Dataset 
-This dataset contains 1000 patient records with the following deatils:
+This dataset contains 1000 patient records with the following details:
 - Age
 - Gender
 - Medical Condition
